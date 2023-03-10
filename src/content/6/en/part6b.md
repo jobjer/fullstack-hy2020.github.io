@@ -750,6 +750,8 @@ You will have to make changes to the application's existing reducer. Create a se
 
 The application does not have to use the <i>Notification</i> component intelligently at this point in the exercises. It is enough for the application to display the initial value set for the message in the <i>notificationReducer</i>.
 
+<Add an example here on how the value set may look like for new anecdote and for anecdote vote, and/or be more clear in this exercise about what a notification message should contain.>
+
 #### 6.13 Better anecdotes, step11
 
 Extend the application so that it uses the <i>Notification</i> component to display a message for five seconds when the user votes for an anecdote or creates a new anecdote:
